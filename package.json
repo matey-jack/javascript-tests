@@ -11,7 +11,7 @@
     "mocha": "^3.5.3"
   },
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha index.js"
+    "test": "mocha"
   },
   "author": "Robert Will",
   "license": "ISC"
